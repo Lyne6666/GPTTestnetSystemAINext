@@ -1,2 +1,1 @@
-# GPTTestnetSystemAINext
-Advanced GPTTestnetSystemAINext project
+.
